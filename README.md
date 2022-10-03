@@ -6,3 +6,4 @@ Screen Notifier is a useful app for programmers or whoever uses the computer a l
  
  Enjoy and Stay Healthy.
 
+------------------------------------------------------
